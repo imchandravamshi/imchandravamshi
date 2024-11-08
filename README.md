@@ -4,7 +4,7 @@
 <img src = "profilepic/profilepic.jpg" alt = "Profile Picture" style ="width:150px; height:150px; border-radius:50%;" >
 
 - **Email**: [gundojichandravamshi@gmail.com](mailto:gundojichandravamshi@gmail.com)
-- **LinkedIn**: [ChandraVamshi Gundoji]([https://www.linkedin.com/in/neeraj-komatishetti-639ab32a8](https://www.linkedin.com/in/chandravamshi-gundoji-61a28429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**: [ChandraVamshi Gundoji](https://www.linkedin.com/in/neeraj-komatishetti-639ab32a8](https://www.linkedin.com/in/chandravamshi-gundoji-61a28429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ## About Me
 
 I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Python, and I love figuring out tricky problems. I'm always looking to learn new things and come up with fresh ideas. I'm searching for an internship to gain real-world experience and understand how companies work. I'm eager to pick up new skills and grow in my field. I'm confident I can be a valuable asset to any team and will work hard to deliver great results.
